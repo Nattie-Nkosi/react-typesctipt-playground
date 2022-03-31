@@ -4,7 +4,7 @@ just to remind myself about redux.
 
 ### About the App
 
-Fetching todos from fake api [JSONPlaceholder](https://jsonplaceholder.typicode.com/todos) and click to delete;
+Fetching todos from fake api [JSONPlaceholder](https://jsonplaceholder.typicode.com/todos) and click todo to delete;
 
 ### Stack
 
